@@ -1,0 +1,181 @@
+# =========================
+# C# / .NET
+# =========================
+bin/
+obj/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Dd]ebug/
+[Rr]elease/
+[Tt]emp/
+[Tt]mp/
+TestResults/
+.vspscc
+.vssscc
+*.user
+*.suo
+*.userosscache
+*.userprefs
+*.cache
+*.dbmdl
+*.bak
+*.backup
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.pdb
+*.mdb
+*.ilk
+*.obj
+*.dll
+*.exe
+*.appx
+*.appxbundle
+*.nupkg
+*.snk
+*.docstates
+
+# Roslyn cache
+*.ide
+.project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+# Uncomment if using the old packages folder
+# packages/*/
+# !packages/build/
+# !packages/repositories.config
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+.vscode/
+*.dbmdl
+*.VC.db
+*.VC.VC.opendb
+*.psess
+*.vsp
+*.vspx
+*.sdf
+*.opendb
+*.ipch/
+*.unsuccessfulbuild
+[Bb]uild[Ll]og.*
+
+# Rider
+.idea/
+.idea/*
+.idea/.idea/
+.idea/.shelf/
+.idea/shelf/
+.idea/httpRequests/
+.idea/.idea.*
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries
+.idea/modules.xml
+.idea/*.iml
+.idea/artifacts/
+.idea/compiler.xml
+.idea/dataSources/
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/shelf/
+.idea/httpRequests/
+.idea/jsLibraryMappings.xml
+.idea/workspace.xml
+.idea/deployment.xml
+.idea/deploymentTargetDropDown.xml
+.idea/.idea.*
+.idea/checkstyle-idea.xml
+.idea/*.ipr
+
+# =========================
+# Visual Studio Code
+# =========================
+.vscode/
+.history/
+*.code-workspace
+
+# =========================
+# OS files
+# =========================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.DS_Store?
+.fseventsd
+
+# Linux
+*~
+.nfs*
+
+# =========================
+# JetBrains Rider / ReSharper
+# =========================
+_ReSharper*/
+*_ReSharper*/
+*.DotSettings.user
+.idea/
+.idea/*
+*.sln.iml
+
+# =========================
+# Other tool configs
+# =========================
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Azure Functions local settings
+local.settings.json
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+*.opencover.xml
+*.dotCover
+*.trx
+
+# =========================
+# User Secrets and Config
+# =========================
+secrets.json
+appsettings.Development.json
+appsettings.Local.json
+
+# =========================
+# Temporary
+# =========================
+*.tmp
+*.temp
+*.bak
+*.old

@@ -1,0 +1,6 @@
+@MyFristApp_HostAddress = http://localhost:5003
+
+GET {{MyFristApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
